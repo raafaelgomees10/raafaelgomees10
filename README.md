@@ -65,8 +65,8 @@
 
 ![Skane Animation](https://github.com/raafaelgomees10/raafaelgomees10/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=raafaelgomees10&theme=codeSTACKr&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raafaelgomees10&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=raafaelgomees10&theme=codeSTACKr&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
 
 <br/>
 <br/>
