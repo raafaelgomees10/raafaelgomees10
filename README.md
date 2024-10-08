@@ -24,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50"  height="35"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50"  height="35"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="50"  height="35"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"  height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50"  height="35"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"  height="35"/>
@@ -42,7 +43,8 @@
 <h3>📫 How to reach me</h2>
 <div >
  <a href="https://rafaelgomes.netlify.app?utm_source=github&utm_medium=social&utm_campaign=badge_github"> 
-<img src="https://camo.githubusercontent.com/5c4e10c1e5535da25f3603a02c2d3095acf1a5cafdac84c407eaf850ad233851/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3436613266312e7376673f267374796c653d666c61742d737175617265266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f616e6d6f6c73696e67682e6d652f" alt="website" data-canonical-src="https://img.shields.io/badge/Website-46a2f1.svg?&amp;style=flat-square&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://rafaelgomes.netlify.app/" height="25">
+ 
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" data-canonical-src="https://img.shields.io/badge/Website-46a2f1.svg?&amp;style=flat-square&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://rafaelgomes.netlify.app/" height="25">
 </a>
  <a href="https://linkedin.com/in/dev-rafael-gomes">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn badge" />
